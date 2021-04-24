@@ -65,7 +65,7 @@ int lightSignal(String color){
 
 
 /*
-Below are the web page and curl code. I have replaced the decide ID and token here.
+Below are the web page and curl code. I have replaced the decide ID and token with **************.
 
 <html>
 <body>
